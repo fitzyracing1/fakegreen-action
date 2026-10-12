@@ -33,3 +33,8 @@ See the [main fakegreen repo](https://github.com/fitzyracing1/fakegreen) for the
 ## License
 
 MIT
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/fakegreen-action/wiki](https://github.com/fitzyracing1/fakegreen-action/wiki)
